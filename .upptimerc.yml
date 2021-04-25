@@ -5,6 +5,14 @@ repo: Sites-Dashboard-Test # The name of this repository
 sites:
   - name: Caleb Stauffer Style
     url: https://develop.calebstauffer.com
+  - name: Rugby Americas North
+    url: https://rugbyamericasnorth.com
+  - name: The Realty Medics
+    url: https://www.therealtymedics.com
+  - name: Strikepoint Media
+    url: https://www.strikepointmedia.com
+  - name: Secret Site 1
+    url: $SECRET_SITE_1_URL
     
 assignees:
   - crstauf
